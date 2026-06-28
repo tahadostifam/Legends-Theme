@@ -4,6 +4,10 @@ A pure dark VSCode theme with black background for maximum contrast and eye comf
 
 Forked from [github-dark-high-contrast](https://github.com/hipstersmoothie/github-dark-high-contrast).
 
+## Screenshot
+
+<img src="./screenshot.png" />
+
 ## Color Palette
 
 | Role          | Color   | Hex       |
