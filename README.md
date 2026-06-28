@@ -69,4 +69,4 @@ Forked from [github-dark-high-contrast](https://github.com/hipstersmoothie/githu
 
 ### Manual Installation (without packaging)
 
-Copy the `themes/` folder and `package.json` into `~/.vscode/extensions/tomodachi-land/` (Linux/macOS) or `%USERPROFILE%\.vscode\extensions\tomodachi-land\` (Windows), then reload VSCode.
+Copy the `themes/` folder and `package.json` into `~/.vscode/extensions/legends-theme/` (Linux/macOS) or `%USERPROFILE%\.vscode\extensions\legends-theme\` (Windows), then reload VSCode.
