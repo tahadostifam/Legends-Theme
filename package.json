@@ -1,0 +1,34 @@
+{
+  "name": "legends-theme",
+  "publisher": "tahadostifam",
+  "displayName": "Legends Theme",
+  "description": "A pure dark VSCode theme with #000000 background, green (#15ff00), purple (#9012ff), red, yellow, and orange syntax highlighting",
+  "author": "tahadostifam",
+  "repository": "https://github.com/tahadostifam/Legends-Theme",
+  "version": "1.0.0",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.52.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "pure dark",
+    "theme",
+    "legends",
+    "legends theme",
+    "green",
+    "purple"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Legends Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/legends-theme.json"
+      }
+    ]
+  }
+}
